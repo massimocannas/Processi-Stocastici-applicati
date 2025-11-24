@@ -20,10 +20,10 @@ e contiene simulazioni, animazioni, codice e progetti degli studenti.
 
 Le GIF seguenti mostrano l'evoluzione di alcuni processi stocastici:
 
-- [Self Avoiding Walk](../gif/saw.gif)
-- [Lazy Random Walk](../gif/lazy_rw.gif)
-- [Moto Browniano 1D](../gif/brownian_1d.gif)
-- [Moto Browniano 2D](../gif/brownian_2d.gif)
+- [Self Avoiding Walk](gif/saw.gif)
+- [Lazy Random Walk](gif/lazy_rw.gif)
+- [Moto Browniano 1D](gif/brownian_1d.gif)
+- [Moto Browniano 2D](gif/brownian_2d.gif)
 
 
 ---
@@ -32,9 +32,9 @@ Le GIF seguenti mostrano l'evoluzione di alcuni processi stocastici:
 
 Se il browser le supporta, qui potete visualizzare versioni HTML animate:
 
-- [Lazy Random Walk – HTML](../animazioni/lazy_rw.html)
-- [Moto Browniano 2D – HTML](../animazioni/brownian_2d.html)
-- [Ehrenfest Model – HTML](../animazioni/ehrenfest.html)
+- [Lazy Random Walk – HTML](animazioni/lazy_rw.html)
+- [Moto Browniano 2D – HTML](animazioni/brownian_2d.html)
+- [Ehrenfest Model – HTML](animazioni/ehrenfest.html)
 
 
 
@@ -42,10 +42,9 @@ Se il browser le supporta, qui potete visualizzare versioni HTML animate:
 
 ## 🧪 Progetti degli studenti
 
-Questa sezione raccoglie i lavori presentati dagli studenti:
+Una prossima sezione raccoglierà i lavori presentati dagli studenti su:
 
 - **Simulazioni Monte Carlo**  
-- **Catene di Markov ergodiche**  
 - **Mixing time e distanza variazionale**  
 - **Algoritmi MCMC (Gibbs, Metropolis-Hastings)**  
 - **Campi di spin e modello di Ising**
@@ -64,4 +63,4 @@ Questa sezione raccoglie i lavori presentati dagli studenti:
 
 ---
 
-**Ultimo aggiornamento:** _{{ sostituisci con data }}_
+**Ultimo aggiornamento:** _{{ 11.11.25}}_
