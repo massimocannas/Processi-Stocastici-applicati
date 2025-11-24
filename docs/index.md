@@ -11,7 +11,7 @@ e contiene simulazioni, animazioni, codice e progetti degli studenti.
 
 - Acquisire una conoscenza di base della teoria dei modelli markoviani discreti  
 - Integrare aspetti analitici e computazionali  
-- Sperimentare applicazioni classiche  
+- Simulare applicazioni classiche  
   (modello di Ehrenfest, PageRank, card shuffling, catene reversibili, MCMC, Ising)
 
 ---
@@ -25,7 +25,6 @@ Le GIF seguenti mostrano l'evoluzione di alcuni processi stocastici:
 - [Moto Browniano 1D](../gif/brownian_1d.gif)
 - [Moto Browniano 2D](../gif/brownian_2d.gif)
 
-> Le GIF devono trovarsi nella cartella `gif/` del repository.
 
 ---
 
@@ -33,11 +32,11 @@ Le GIF seguenti mostrano l'evoluzione di alcuni processi stocastici:
 
 Se il browser le supporta, qui potete visualizzare versioni HTML animate:
 
-- [Lazy Random Walk – HTML](../html/lazy_rw.html)
-- [Moto Browniano 2D – HTML](../html/brownian_2d.html)
-- [Ehrenfest Model – HTML](../html/ehrenfest.html)
+- [Lazy Random Walk – HTML](../animazioni/lazy_rw.html)
+- [Moto Browniano 2D – HTML](../animazioni/brownian_2d.html)
+- [Ehrenfest Model – HTML](../animazioni/ehrenfest.html)
 
-> Le animazioni HTML devono essere caricate nella cartella `html/`.
+
 
 ---
 
@@ -51,14 +50,11 @@ Questa sezione raccoglie i lavori presentati dagli studenti:
 - **Algoritmi MCMC (Gibbs, Metropolis-Hastings)**  
 - **Campi di spin e modello di Ising**
 
-*(La lista potrà essere arricchita man mano che i progetti vengono caricati.)*
-
----
 
 ## 📚 Riferimenti
 
 - N. Privault, *Understanding Markov Chains*, Springer (2018)  
-- Materiale aggiuntivo fornito durante il corso (note, articoli, codici)
+- Materiale aggiuntivo fornito durante il corso (note lezioni, articoli, codici) è disponibile sul Team del cors (studenti @unica)
 
 ---
 
