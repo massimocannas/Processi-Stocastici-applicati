@@ -35,7 +35,7 @@ Se il browser le supporta, qui potete visualizzare versioni HTML animate:
 
 - [Random Walk – HTML](animazioni/lazyrw.html)
 - [Lazy Random Walk – HTML](animazioni/rw.html)
-- [Self Avoiding Walk](animazioni/saw.html)
+- [Self Avoiding Walk](../animazioni/saw.html)
 - [Ehrenfest Model – HTML](animazioni/Ehrenfest_model.html)
 
 
