@@ -33,9 +33,9 @@ Le GIF seguenti mostrano l'evoluzione di alcuni processi stocastici:
 
 Se il browser le supporta, qui potete visualizzare versioni HTML animate:
 
-- [Random Walk – HTML](html/rw.html)
+- [Random Walk – HTML](html/rw/rw.html)
 - [Lazy Random Walk – HTML](html/lazyrw/lazyrw.html)
-- [Self Avoiding Walk](/html/saw.html)
+- [Self Avoiding Walk](/html/saw/saw.html)
 
 
 
