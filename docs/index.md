@@ -24,7 +24,7 @@ Le GIF seguenti mostrano l'evoluzione di alcuni processi stocastici:
 - [Lazy Random Walk](gif/lazy_random_walk.gif)
 - [Moto Browniano 1D](gif/brownian_motion.gif)
 - [Moto Browniano 2D](gif/brownian_motion_2D.gif)
-- [Ehrenfest Model – HTML](animazioni/Ehrenfast_model.gif)
+- [Ehrenfest Model – HTML](gif/Ehrenfast_model.gif)
 
 
 ---
@@ -33,8 +33,8 @@ Le GIF seguenti mostrano l'evoluzione di alcuni processi stocastici:
 
 Se il browser le supporta, qui potete visualizzare versioni HTML animate:
 
-- [Random Walk – HTML](html/lazyrw.html)
-- [Lazy Random Walk – HTML](html/lazy_rw/lazyrw.html)
+- [Random Walk – HTML](html/rw.html)
+- [Lazy Random Walk – HTML](html/lazyrw/lazyrw.html)
 - [Self Avoiding Walk](/html/saw.html)
 - [Ehrenfest Model – HTML](html/Ehrenfest_model.html)
 
