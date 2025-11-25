@@ -9,7 +9,7 @@ Animazioni GIF e HTML che illustrano l’evoluzione temporale di alcuni processi
 📖 Testi di riferimento
 N. Privault, Understanding Markov Chains, 2nd Edition, Springer (2018). Appunti disponibili sul Team del corso.
 
-🔗 Link diretti a:
+🔗 Links
 - [Minisito GitHub Pages (animazioni HTML eseguibili)](https://massimocannas.github.io/Processi-Stocastici-applicati/)
 - [Cartella GIF](./gif)
 - [Cartella Codici](./code)
