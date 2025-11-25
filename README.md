@@ -11,8 +11,10 @@ N. Privault, Understanding Markov Chains, 2nd Edition, Springer (2018). Appunti 
 
 🔗 Links
 - [Minisito GitHub Pages (animazioni HTML eseguibili)](https://massimocannas.github.io/Processi-Stocastici-applicati/)
-- [Cartella GIF](./gif)
-- [Cartella Codici](./code)
+- [Cartella GIF](./docs/gif)
+- [Cartella HTML](./docs/HTML)
+- [Cartella Codici R](.docs/code)
+
 
 
 
