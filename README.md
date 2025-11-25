@@ -9,3 +9,13 @@ Animazioni GIF che illustrano l’evoluzione temporale di alcuni processi (es. r
 📖 Testi di riferimento
 N. Privault, Understanding Markov Chains, 2nd Edition, Springer (2018).
 
+🔗 Link utili
+🖥️ Minisito GitHub Pages (animazioni HTML eseguibili)
+👉 Visita il minisito
+🎞️ Cartella GIF delle simulazioni
+👉 GIF delle animazioni
+🧩 Cartella HTML con le animazioni interattive
+👉 Animazioni HTML
+📁 Directory completa docs/ usata per GitHub Pages
+👉 Cartella docs
+
