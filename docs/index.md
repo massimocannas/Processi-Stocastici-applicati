@@ -3,7 +3,7 @@ layout: default
 title: Processi Stocastici – Reading Course
 ---
 
-# Processi Stocastici – Reading Course
+<!-- # Processi Stocastici – Reading Course -->
 
 Benvenuti nel sito del **Reading Course sui Processi Stocastici**.  
 Il materiale raccolto qui accompagna il percorso basato sul testo di  
