@@ -3,7 +3,7 @@ Questo repository raccoglie materiali, implementazioni ed esempi sviluppati dura
 
 📁 Contenuti del repository
 Codice sorgente per simulazioni e analisi numeriche.
-Appunti, esercizi e materiali prodotti dagli studenti.
+Appunti, esercizi e materiali realizzati dagli studenti (grazie a Luca Onnis per la gif "Ehrenfast").
 Animazioni GIF e HTML che illustrano l’evoluzione temporale di alcuni processi (es. random walks, Ising, mixing, self avoiding walks, random walks, brownian motion).
 
 📖 Testi di riferimento
