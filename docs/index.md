@@ -65,7 +65,7 @@ Una prossima sezione raccoglierà i lavori presentati dagli studenti su:
 
 ## 🔗 Link al repository GitHub
 
-👉 [Visita il repository del corso](../)
+👉 [Visita il repository del corso](https://github.com/massimocannas/Processi-Stocastici-applicati/tree/main)
 
 ---
 
